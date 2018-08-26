@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "974178805909",
+    "firebase_url": "https://inafirebaserealtimedb.firebaseio.com",
+    "project_id": "inafirebaserealtimedb",
+    "storage_bucket": "inafirebaserealtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974178805909:android:2d7e1f6ca14cd976",
+        "android_client_info": {
+          "package_name": "ina.id.my.inafirebaserealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974178805909-vvmhco90h5rjblmk9ssnv1ji740rin5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ina.id.my.inafirebaserealtimedb",
+            "certificate_hash": "4d1aa927ca99dcc60f2d8c59cb501f640b8481e5"
+          }
+        },
+        {
+          "client_id": "974178805909-j9snvo8tof57nr7pjdpod82j89lp41kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Rd68jR-APHuYsV7ZX6qnGfgiazNHqqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974178805909-j9snvo8tof57nr7pjdpod82j89lp41kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
